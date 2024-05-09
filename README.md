@@ -6,10 +6,6 @@ This project aims to analyze sentiment in drug reviews using machine learning an
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
